@@ -1,9 +1,8 @@
-# Hi there, I'm [Nama Anda] 👋
+# Hi there, I'm Mas Mohamad Rafi Nouval Fadil 👋
 **AI Automation Engineer | Software Engineering Undergraduate | ML Researcher**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/username-anda)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=flat&logo=gmail)](mailto:email-anda@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Web-green?style=flat&logo=googlechrome)](https://link-portofolio-anda.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/nouvallr)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=flat&logo=gmail)](mailto:rafinouval.f@gmail.com)
 
 I am a highly motivated Software Engineering undergraduate with a **hands-on builder mentality**. I specialize in designing production-grade **workflow automations**, deploying **Agentic AI systems**, and implementing **parameter-efficient fine-tuning (PEFT)** for Large Language Models. 
 
